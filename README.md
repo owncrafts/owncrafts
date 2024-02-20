@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🌍 From Junagadh, Gujarat, India
 - 📅 Born on April 30, 2005
 - 🎓 Completed Diploma in Computer Engineering (2020-2023)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dhruvlathia)
+- 🌸 Anime, Manga and Manhwa lover, weaving dreams in the animated realm
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dhruvlathia), because connecting in the digital realm is my thing
 
 ## Skills
 - 💻 Proficient in C, C++, Core Java, Core Python, .Net, Shell, Php, Html, Css, Javascript, React.js, Next.js, Codeigniter 3, MySQL, Node.js, Express.js, Mongo DB
@@ -27,29 +28,29 @@ Here are some ideas to get you started:
 - 🎓 Currently learning Japanese
 
 ## Projects
-1. **Quizgame**
+1. **Quizgame** : [Visit](https://quizgame.rf.gd)
    - Description: Friends quiz game website where users can create and share quizzes.
    
-2. **VVNMENU**
+2. **VVNMENU** : [Visit](https://vvnmenu.in)
    - Description: College project in PHP, HTML, CSS, and MySQL. Responsible for managing frontend and backend for the customer side panel.
 
 ## Work Experience
 - 🛠️ Internship at Spark Digishine (2023-2024)
   - Projects:
-    1. **Somenu**
+    1. **Somenu** : [Visit](https://somenu.digital)
        - Contributions: Backend and homepage frontend.
-    2. **Fishelly**
+    2. **Fishelly** : [Visit](https://www.fishelly.com)
        - Contributions: Frontend and logical structure thinking in the backend.
-    3. **Gadhia Associate Website**
-       - Contributions: [Specify your contributions]
+    3. **Gadhia Associate Website** : [Visit](https://gadhiaassociate.com)
+       - Contributions: [Full stack project in PhP]
 
 ## Contact
-- 📧 Email: lathiadhruv@gmail.com
-- 📱 Mobile: +918758144709
+- 📧 Drop an electronic letter at lathiadhruv@gmail.com
+- 📱 Or send a digital raven to +918758144709
 
 ## Interests
 - 👾 Backend development
-- 🌐 Ethical hacking and phishing attacks
 - 🌟 Aspiring full-stack developer
+- 🌐 Ethical hacking and phishing attacks
 
 Let's connect and build amazing things together! 🚀
