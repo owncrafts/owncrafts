@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📅 Born on April 30, 2005
 - 🎓 Completed Diploma in Computer Engineering (2020-2023)
 - 🌸 Anime, Manga and Manhwa lover, weaving dreams in the animated realm
-- 🌐 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> - [LinkedIn](https://www.linkedin.com/in/dhruvlathia), because connecting in the digital realm is my thing
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhruvlathia), because connecting in the digital realm is my thing
 
 ## Skills
 - 💻 Proficient in C, C++, Core Java, Core Python, .Net, Shell, Php, Html, Css, Javascript, React.js, Next.js, Codeigniter 3, MySQL, Node.js, Express.js, Mongo DB
