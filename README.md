@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## Contact
 - 📧 Drop an electronic letter at lathiadhruv@gmail.com
 - 📱 Or send a digital raven to +918758144709
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhruvlathia)
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhruvlathia)
 
 ## Interests
 - 👾 Backend development
