@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/104671436"  />
+<img align="right" height="250" src="https://avatars.githubusercontent.com/u/104671436"  />
 
 ###
 
