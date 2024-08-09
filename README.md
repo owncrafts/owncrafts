@@ -29,20 +29,20 @@
 
 ## Projects
 1. **Quizgame** : [Visit](https://quizgame.rf.gd)
-   - Description: Friends quiz game website where users can create and share quizzes.
+   - Description: Friends quiz game website where users can create and share quizzes. [Solo]
    
 2. **VVNMENU** : [Visit](https://vvnmenu.in)
-   - Description: College project in PHP, HTML, CSS, and MySQL. Responsible for managing frontend and backend for the customer side panel.
+   - Description: College project in PHP, HTML, CSS, and MySQL. Responsible for managing frontend and backend for the customer side panel. [Team]
 
 ## Work Experience
 - 🛠️ Internship at Spark Digishine (2023-2024)
   - Projects:
     1. **Somenu** : [Visit](https://somenu.digital)
-       - Contributions: Backend and homepage frontend.
+       - Contributions: Backend and homepage frontend. [Team]
     2. **Fishelly** : [Visit](https://www.fishelly.com)
-       - Contributions: Frontend and logical structure thinking in the backend.
+       - Contributions: Frontend and logical structure thinking in the backend. [Team]
     3. **Gadhia Associate Website** : [Visit](https://gadhiaassociate.com)
-       - Contributions: [Full stack project in PhP]
+       - Contributions: [Full stack project in PhP] [Solo, Worked under Spark Digishine]
 
 ## Contact
 - 📧 Drop an electronic letter at lathiadhruv@gmail.com
