@@ -1,20 +1,7 @@
 
 # Hi there! 👋 I'm Dhruv
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/owncrafts/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owncrafts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
-  </div>
-
-
-###
+I'm a full-stack developer with a knack for frontend and backend, working with Angular, React, Next.js, and Node.js. I love building clean, efficient web apps and handling projects end-to-end with a focus on detail and functionality.
 
 ## About Me
 - 🌍 From Junagadh, Gujarat, India
